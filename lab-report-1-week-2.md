@@ -29,7 +29,7 @@ After this, go to VSCode and link your account to the remote computer. You will 
 ![Image](Picture6.png)
 
 **Step 6**
-Our last step is to just make running remotely easier. Some tips and tools you can use are:
+>Our last step is to just make running remotely easier. Some tips and tools you can use are:
 - ^ - Runs most recent command
 - tab - auto completes code
 - ctrl s - saves file
