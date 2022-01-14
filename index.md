@@ -1,5 +1,5 @@
 #Vismay's Website
-Hello
+Hello I am Vismay, and I play soccer at UCSD.
 
 [Link]  (https://www.youtube.com/watch?v=tAN8g7Fd2Cw)
 
