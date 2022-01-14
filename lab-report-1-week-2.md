@@ -36,5 +36,6 @@ After this, go to VSCode and link your account to the remote computer. You will 
 - history - lists all of the commands typed recently
 ![Image](Picture7.png)
 
- ## *I Hope this helped*
+
+## *I Hope this helped*
 ## *Vismay*
