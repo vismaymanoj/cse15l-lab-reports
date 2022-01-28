@@ -37,7 +37,9 @@ Our last step is to just make running remotely easier. Some tips and tools you c
 - ; runs multiple lines
 ![Image](Picture15.png)
 
-In this picture I used semicolons to run multiple lines of commands
+In this picture I used semicolons to run multiple lines of commands.
+
+My keystroke count was 2, as I all i pressed was tab and enter to run. 
 
 
 ## *I Hope this helped*
