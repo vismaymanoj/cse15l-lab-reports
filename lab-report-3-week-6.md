@@ -18,6 +18,6 @@ The next step I did was log into my ieng6 account and then comile and run the te
 ![Image](Picture18.png).
 
 Lastly, I used what I learned in the previous lab, and was able to run multiple commands at once by using a semicolon. I not only copied my directory, but I ran the test file as well. 
-![Image](Picture19.png)
+![Image](Picture20.png)
 
 *This is the end of Lab 3*
