@@ -5,7 +5,7 @@ Here is a link to our code: [Link](https://github.com/vismaymanoj/markdown-parse
 
 Here is the code we reviwed: [Link](https://github.com/zhl010/markdown-parse)
 
-**Snippet 1**
+# Snippet 1
 
 ```[a link`](url.com)```
 
@@ -36,7 +36,7 @@ This was the other groups results.
 ![Image](Picture23.png)
 It did not pass.
 
-**Snippet 2**
+# Snippet 2
 
 ```[a [nested link](a.com)](b.com)```
 
@@ -63,7 +63,7 @@ This was the other groups results.
 ![Image](Picture26.png)
 It did not pass either.
 
-**Snippet 3**
+# Snippet 3
 
 ```[this title text is really long and takes up more than ```
 ```one line```
