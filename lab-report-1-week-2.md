@@ -42,11 +42,11 @@ Now we are going to set up a key so we don't need to use our password all the ti
 
 
 Our last step is to just make running remotely easier. Some tips and tools you can use are:
-- ^ - Runs most recent command
-- tab - auto completes code
-- ctrl s - saves file
-- history - lists all of the commands typed recently
-- ; runs multiple lines
+- ```^``` - Runs most recent command
+- ```tab``` - auto completes code
+- ```ctrl s``` - saves file
+- ```history``` - lists all of the commands typed recently
+- ```;``` runs multiple lines
 ![Image](Picture15.png)
 ![Image](Picture19.png)
 
