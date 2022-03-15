@@ -47,7 +47,7 @@ Our last step is to just make running remotely easier. Some tips and tools you c
 - ```ctrl s``` - saves file
 - ```history``` - lists all of the commands typed recently
 - ```;``` runs multiple lines
-![Image](Picture31.png)
+![Image](Picture33.png)
 I did this on scp, by prinitng this command line into my terminal.
 ```scp WhereAmI.java cs15lwi22avp@ieng6.ucsd.edu:~/```
 
